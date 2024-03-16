@@ -34,7 +34,7 @@ const quizData = [
     {
         question: "Which tag is used to create a heading in HTML?",
         a: "<h>",
-        b: "<heading>",
+        b: "<headings>",
         c: "<head>",
         d: "<h1> to <h6>",
         correct: "d",
