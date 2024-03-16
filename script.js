@@ -20,15 +20,15 @@ const quizData = [
         a: "Hypertext Markup Language",
         b: "Hypertext Markdown Language",
         c: "Hyperloop Machine Language",
-        d: "Helicopters Terminals Motorboats Lamborginis",
+        d: "Helicopters Tata Motorboats Lamborginis",
         correct: "a",
     },
     {
         question: "What year was JavaScript launched?",
-        a: "1996",
+        a: "1947",
         b: "1995",
-        c: "1994",
-        d: "none of the above",
+        c: "2024",
+        d: "1994",
         correct: "b",
     },
     {
@@ -60,7 +60,7 @@ const quizData = [
         a: "World Web Wires",
         b: "World Wide Web",
         c: "Web World Wide",
-        d: "Web Wide World",
+        d: "Web Wrestling World",
         correct: "b",
     },
     {
@@ -73,10 +73,10 @@ const quizData = [
     },
     {
         question: "What is the primary purpose of the <img> tag in HTML?",
-        a: "To create a table",
+        a: "To create a image",
         b: "To insert an image",
-        c: "To define a hyperlink",
-        d: "To format text",
+        c: "To define a image",
+        d: "To paint a image",
         correct: "b",
     }
 ];
