@@ -52,7 +52,7 @@ const quizData = [
         a: "//",
         b: "--",
         c: "#",
-        d: "/**/",
+        d: "/*/",
         correct: "a",
     },
     {
